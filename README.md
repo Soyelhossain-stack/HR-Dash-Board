@@ -22,6 +22,7 @@ This theme ensures clarity, readability, and a professional look.
 
 ## 🚀 Dashboard Link
 🔗 [View the Interactive HR Dashboard on Tableau Public](https://public.tableau.com/app/profile/soyel.hossain/viz/HRDashboard_17558508464700/HRSummary?publish=yes)
+
 🔗 [View the Interactive HR Dashboard on Tableau Public](https://public.tableau.com/app/profile/soyel.hossain/viz/HRDashboard_17558508464700/HRDetails?publish=yes)
 
 ---

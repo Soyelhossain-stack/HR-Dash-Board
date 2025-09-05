@@ -21,7 +21,7 @@ This theme ensures clarity, readability, and a professional look.
 ---
 
 ## 🚀 Dashboard Link
-🔗 [View the Interactive HR Dashboard on Tableau Public](YOUR_DASHBOARD_LINK_HERE)
+🔗 [View the Interactive HR Dashboard on Tableau Public](https://public.tableau.com/app/profile/soyel.hossain/viz/HRDashboard_17558508464700/HRSummary?publish=yes)
 
 ---
 
@@ -69,7 +69,7 @@ This theme ensures clarity, readability, and a professional look.
 
 ---
 
-👤 **Author:** [Your Name]  
+👤 **Author:** Soyel Hossain  
 📌 Built with **Tableau Public**  
 
 

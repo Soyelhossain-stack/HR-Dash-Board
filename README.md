@@ -54,10 +54,10 @@ This theme ensures clarity, readability, and a professional look.
 
 ## 📸 Dashboard Snapshots
 ### 🔹 Summary View
-![HR Dashboard Summary](HR Dashboard Summary.png)
+![HR Dashboard Summary](hr_dashboard_summary.png)
 
 ### 🔹 Detailed Employee Records View
-![HR Dashboard Detailed](hrdashboard_detailed.png)
+![HR Dashboard Detailed](hr_dashboard_detailed.png)
 
 ---
 
